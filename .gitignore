@@ -1,0 +1,6 @@
+*.tar
+layer*/
+**/layer*/
+**ubuntu-filesystem/
+**ubuntu-python-java-filesystem/
+**mycontainer/
